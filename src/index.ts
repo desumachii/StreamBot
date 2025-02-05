@@ -607,4 +607,4 @@ if (config.server_enabled) {
 }
 
 // Login to Discord
-streamer.client.login(config.token);
+streamer.client.login("MTMzMjM4MTI1NTY2NDQwNjY0OQ.GSZtIN.JmWWpUcP643o-Re8KqwnPRqYYOR6Ugug1HP2lI");
